@@ -139,3 +139,7 @@ package-lock.json
 yarn.lock
 .cdk.staging
 cdk.out
+
+### Rest Client requests
+*.http
+*.https
